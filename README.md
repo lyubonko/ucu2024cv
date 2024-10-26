@@ -3,7 +3,7 @@
 Materials for the course "Deep Learning for Computer Vision"
 
 
-## Materials
+## Materials (2 module)
 
 * **Slides**
 
