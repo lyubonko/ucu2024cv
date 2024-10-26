@@ -6,6 +6,7 @@ Materials for the course "Deep Learning for Computer Vision"
 ## Materials
 
 * **Slides**
+
   - [intro](https://github.com/lyubonko/ucu2024cv/blob/main/slides/ucu_cv2024_module2_lecture01.pdf?raw=true)
   - [cnn](https://github.com/lyubonko/ucu2024cv/blob/main/slides/ucu_cv2024_module2_lecture02_03_cnn.pdf?raw=true)
   - [vit](https://github.com/lyubonko/ucu2024cv/blob/main/slides/ucu_cv2024_module2_lecture04_05_cnn.pdf?raw=true)
@@ -13,6 +14,7 @@ Materials for the course "Deep Learning for Computer Vision"
 
 
 *  **Tutorials**
+  
   - [tutorial-data](https://colab.research.google.com/github/lyubonko/ucu2024cv/blob/main/practice/tutorial01_data.ipynb)
   - [tutorial-cnn](https://colab.research.google.com/github/lyubonko/ucu2024cv/blob/main/practice/tutorial02_cnn.ipynb)
   - [tutorial-vit](https://colab.research.google.com/github/lyubonko/ucu2024cv/blob/main/practice/tutorial03_vit.ipynb)
