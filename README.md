@@ -12,6 +12,8 @@ Materials for the course "Deep Learning for Computer Vision"
     - [vit](https://github.com/lyubonko/ucu2024cv/blob/main/slides/ucu_cv2024_module2_lecture04_05_vit.pdf?raw=true)
     - [detection](https://github.com/lyubonko/ucu2024cv/blob/main/slides/ucu_cv2024_module2_lecture06_detection.pdf?raw=true)
 
+    - [diff](https://github.com/lyubonko/ucu2024cv/blob/main/slides/ucu_cv2024_module5_lecture01_diff.pdf?raw=true)
+    - [3d](https://github.com/lyubonko/ucu2024cv/blob/main/slides/ucu_cv2024_module5_lecture02_3d.pdf?raw=true)    
 
 *  **Tutorials**
   
