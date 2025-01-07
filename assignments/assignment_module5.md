@@ -8,7 +8,7 @@ Write a review of a scientific paper in the field of Generative Computer Vision.
 ### Requirements
 - Paper must be from the Generative Computer Vision field
 - Recent paper, preferably from last year (e.g., from CVPR2024)
-- Length: 3-5 pages
+- Length: 2-4 pages
 
 ### Review Structure
 
