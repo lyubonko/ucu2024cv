@@ -21,9 +21,9 @@ Write a review of a scientific paper in the field of Generative Computer Vision.
 - Keywords:
 
 2. Summary (2-4 pages)
-- **What**: Describe the general idea, its novelty (how this method improves upon previous ones), and practical applications
-- **How**: Explain in your own words how it works, can include diagrams
-- **Results**: Main findings
+- What: Describe the general idea, its novelty (how this method improves upon previous ones), and practical applications
+- How: Explain in your own words how it works, can include diagrams
+- Results: Main findings
 ```
 
 **Reference Materials:**
